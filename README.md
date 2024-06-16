@@ -22,6 +22,9 @@ Here are some ideas to get you started:
   <a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin=2px;"/></a>
   <a href="mailto:varunsanjayamin75@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a>
+  <a href="https://discord.gg/p3Ghra2y">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
   <a href="https://www.instagram.com/varunamin027/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram Badge" style="margin=2px;"/</a>
   <a href="https://x.com/varooon_amin9"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=flat-square" alt="Twitter Badge" style="margin=2px;"/></a>
 </div>
