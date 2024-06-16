@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/varun-s-amin-8933a622a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin=2px;"/></a>
+  <a href="https://www.linkedin.com/in/varun-s-amin-8933a622a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin=2px;"/></a>
   <a href="mailto:varunsanjayamin75@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a>
   <a href="https://discord.gg/p3Ghra2y">
