@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <a href="https://discord.gg/p3Ghra2y">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge"/>
 </a>
-  <a href="https://www.instagram.com/varunamin027/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram Badge" style="margin=2px;"/</a>
+  <a href="https://www.instagram.com/_varooooon/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram Badge" style="margin=2px;"/</a>
   <a href="https://x.com/varooon_amin9"><img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=flat-square" alt="Twitter Badge" style="margin=2px;"/></a>
 </div>
 
